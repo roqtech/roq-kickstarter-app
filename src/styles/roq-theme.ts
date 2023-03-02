@@ -7,7 +7,7 @@ export const roqThemeLight = createCustomTheme({
     secondary: "#E96479",
   },
   spacing: {
-    borderRadius: "16px",
+    borderRadius: "12px",
   },
   typography: {
     family: "'Lato', sans-serif",
